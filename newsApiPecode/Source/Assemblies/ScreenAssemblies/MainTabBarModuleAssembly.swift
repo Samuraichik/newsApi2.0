@@ -44,10 +44,10 @@ extension MainTabBarModuleAssembly {
         case articles
         case favourite
         
-        var image: UIImage {
+        var image: UIImage? {
             switch self {
-            case .articles: return UIImage(named: "homeIconn")!
-            case .favourite: return UIImage(named: "favoritePicked")!
+            case .articles: return UIImage(named: "homeIconn")
+            case .favourite: return UIImage(named: "favoritePicked")
             }
         }
         
