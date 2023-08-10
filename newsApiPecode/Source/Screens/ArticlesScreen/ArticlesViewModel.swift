@@ -57,8 +57,9 @@ final class ArticlesViewModel: InjectableViaInit, AnyArticlesViewModel {
     
     private(set) var input: ArticlesVMInput?
     var output: ArticlesVMOutput?
-    
     private(set) var articles: [Article] = []
+    
+    var needToBeSorted: Bool = false
     
     // MARK: - Private Properties
     
@@ -71,12 +72,6 @@ final class ArticlesViewModel: InjectableViaInit, AnyArticlesViewModel {
     private let notificationCenter: NotificationCenter
     private var queryParams: [QueryParameter] = []
     private var isFilters: Bool = false
-    
-    var needToBeSorted: Bool = false {
-        didSet {
-            fetchArticles()
-        }
-    }
     
     // MARK: - Init
     

@@ -14,8 +14,8 @@
             filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "170"
-            endingLineNumber = "170"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
             landmarkName = "fetchArticles(reset:)"
             landmarkType = "7">
             <Locations>
@@ -376,8 +376,8 @@
             filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "167"
-            endingLineNumber = "167"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
             landmarkName = "fetchArticles(reset:)"
             landmarkType = "7">
             <Locations>
@@ -514,8 +514,8 @@
             filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "200"
-            endingLineNumber = "200"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
             landmarkName = "fetchMoreArticlesIfNeeded(after:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -530,8 +530,8 @@
             filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "199"
-            endingLineNumber = "199"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
             landmarkName = "fetchMoreArticlesIfNeeded(after:)"
             landmarkType = "7">
             <Locations>
@@ -657,8 +657,8 @@
             filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "172"
-            endingLineNumber = "172"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
             landmarkName = "fetchArticles(reset:)"
             landmarkType = "7">
             <Locations>
@@ -780,8 +780,8 @@
             filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "166"
-            endingLineNumber = "166"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
             landmarkName = "fetchArticles(reset:)"
             landmarkType = "7">
             <Locations>
@@ -997,8 +997,8 @@
             filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "159"
-            endingLineNumber = "159"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
             landmarkName = "fetchArticles(reset:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1091,8 +1091,8 @@
             filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "174"
-            endingLineNumber = "174"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
             landmarkName = "fetchArticles(reset:)"
             landmarkType = "7">
             <Locations>
@@ -1226,69 +1226,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "95289079-E696-4F85-BBC5-B99064EDFE5C"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "77"
-            endingLineNumber = "77"
-            landmarkName = "needToBeSorted"
-            landmarkType = "24">
-            <Locations>
-               <Location
-                  uuid = "95289079-E696-4F85-BBC5-B99064EDFE5C - 8e76848509c0922e"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "newsApiPecode.ArticlesViewModel.needToBeSorted.didset : Swift.Bool"
-                  moduleName = "newsApiPecode"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "68"
-                  endingLineNumber = "68"
-                  offsetFromSymbolStart = "22">
-               </Location>
-               <Location
-                  uuid = "95289079-E696-4F85-BBC5-B99064EDFE5C - 8e76848509c0922e"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "newsApiPecode.ArticlesViewModel.needToBeSorted.didset : Swift.Bool"
-                  moduleName = "newsApiPecode"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "68"
-                  endingLineNumber = "68"
-                  offsetFromSymbolStart = "20">
-               </Location>
-               <Location
-                  uuid = "95289079-E696-4F85-BBC5-B99064EDFE5C - 8e76848509c09391"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "newsApiPecode.ArticlesViewModel.needToBeSorted.didset : Swift.Bool"
-                  moduleName = "newsApiPecode"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "73"
-                  endingLineNumber = "73"
-                  offsetFromSymbolStart = "20">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "F4BBF0A3-A9C8-40CE-863B-93C141E99355"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -1344,8 +1281,8 @@
             filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "155"
-            endingLineNumber = "155"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
             landmarkName = "fetchArticles(reset:)"
             landmarkType = "7">
             <Locations>
@@ -1392,8 +1329,8 @@
             filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "168"
-            endingLineNumber = "168"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
             landmarkName = "fetchArticles(reset:)"
             landmarkType = "7">
             <Locations>
@@ -1743,8 +1680,8 @@
             filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "127"
-            endingLineNumber = "127"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
             landmarkName = "articleTapped(article:)"
             landmarkType = "7">
             <Locations>
@@ -2189,8 +2126,8 @@
             filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "122"
-            endingLineNumber = "122"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
             landmarkName = "handleDataReceived(_:)"
             landmarkType = "7">
             <Locations>
@@ -2237,8 +2174,8 @@
             filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "146"
-            endingLineNumber = "146"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
             landmarkName = "setupInput()"
             landmarkType = "7">
             <Locations>
@@ -2300,8 +2237,8 @@
             filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "191"
-            endingLineNumber = "191"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
             landmarkName = "clearParams(searchValue:)"
             landmarkType = "7">
             <Locations>
@@ -2363,8 +2300,8 @@
             filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "194"
-            endingLineNumber = "194"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
             landmarkName = "clearParams(searchValue:)"
             landmarkType = "7">
             <Locations>
@@ -2426,8 +2363,8 @@
             filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "112"
-            endingLineNumber = "112"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
             landmarkName = "handleDataReceived(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -2442,8 +2379,8 @@
             filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "113"
-            endingLineNumber = "113"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
             landmarkName = "handleDataReceived(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -2458,8 +2395,8 @@
             filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "114"
-            endingLineNumber = "114"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
             landmarkName = "handleDataReceived(_:)"
             landmarkType = "7">
             <Locations>
