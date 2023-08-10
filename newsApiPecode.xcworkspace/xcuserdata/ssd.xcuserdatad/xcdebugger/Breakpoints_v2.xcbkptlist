@@ -1,0 +1,2500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "79D657AF-E9F4-419A-8BE9-A01A8DA8FD93"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7C95B87-3ED8-4FFA-A75C-2CEC99D49098"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "fetchArticles(reset:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B7C95B87-3ED8-4FFA-A75C-2CEC99D49098 - b33c5196b201c1d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "1267">
+               </Location>
+               <Location
+                  uuid = "B7C95B87-3ED8-4FFA-A75C-2CEC99D49098 - b33c5196b201c1d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "562">
+               </Location>
+               <Location
+                  uuid = "B7C95B87-3ED8-4FFA-A75C-2CEC99D49098 - b33c5196b201c1d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "670">
+               </Location>
+               <Location
+                  uuid = "B7C95B87-3ED8-4FFA-A75C-2CEC99D49098 - b33c5196b201c1d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "675">
+               </Location>
+               <Location
+                  uuid = "B7C95B87-3ED8-4FFA-A75C-2CEC99D49098 - b33c5196b201c153"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "1107">
+               </Location>
+               <Location
+                  uuid = "B7C95B87-3ED8-4FFA-A75C-2CEC99D49098 - b33c5196b201c58a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "623">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "637F3FEE-DC35-4F0F-8F44-5599D0B95161"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Networker/Source/Requests/ArticlesRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "buildUrl(params:isFilters:pagination:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "637F3FEE-DC35-4F0F-8F44-5599D0B95161 - 7e1e173748dcc155"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesRequest.buildUrl(params: Swift.Array&lt;newsApiPecode.QueryParameter&gt;, isFilters: Swift.Bool) -&gt; Swift.String"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Networker/Source/Requests/ArticlesRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "1929">
+               </Location>
+               <Location
+                  uuid = "637F3FEE-DC35-4F0F-8F44-5599D0B95161 - 7e1e173748dcc155"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesRequest.buildUrl(params: Swift.Array&lt;newsApiPecode.QueryParameter&gt;, isFilters: Swift.Bool) -&gt; Swift.String"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Networker/Source/Requests/ArticlesRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "2121">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECE37D7E-0A29-46D3-A1D7-3680531E34E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Networker/Source/Requests/ArticlesRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "buildUrl(params:isFilters:pagination:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ECE37D7E-0A29-46D3-A1D7-3680531E34E4 - 7e1e173748dcc3e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesRequest.buildUrl(params: Swift.Array&lt;newsApiPecode.QueryParameter&gt;, isFilters: Swift.Bool) -&gt; Swift.String"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Networker/Source/Requests/ArticlesRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "307">
+               </Location>
+               <Location
+                  uuid = "ECE37D7E-0A29-46D3-A1D7-3680531E34E4 - 7e1e173748dcc3e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesRequest.buildUrl(params: Swift.Array&lt;newsApiPecode.QueryParameter&gt;, isFilters: Swift.Bool) -&gt; Swift.String"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Networker/Source/Requests/ArticlesRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "570">
+               </Location>
+               <Location
+                  uuid = "ECE37D7E-0A29-46D3-A1D7-3680531E34E4 - 7e1e173748dcc3e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesRequest.buildUrl(params: Swift.Array&lt;newsApiPecode.QueryParameter&gt;, isFilters: Swift.Bool) -&gt; Swift.String"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Networker/Source/Requests/ArticlesRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "679">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CE444A0-20E2-4876-B156-5E828EC521B1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Networker/Source/Requests/ArticlesRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "buildUrl(params:isFilters:pagination:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3E795BF-BA3B-435D-889C-F4306DF17399"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Networker/Source/Requests/ArticlesRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "buildUrl(params:isFilters:pagination:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4680FBE7-9C4D-431A-8C1F-8F25A0A1AD6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Networker/Source/Requests/ArticlesRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "buildUrl(params:isFilters:pagination:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4680FBE7-9C4D-431A-8C1F-8F25A0A1AD6F - 7f0be1b11923d5bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesRequest.buildUrl(params: Swift.Array&lt;newsApiPecode.QueryParameter&gt;, isFilters: Swift.Bool, pagination: newsApiPecode.Pagination) -&gt; Swift.String"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Networker/Source/Requests/ArticlesRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "2456">
+               </Location>
+               <Location
+                  uuid = "4680FBE7-9C4D-431A-8C1F-8F25A0A1AD6F - 7f0be1b11923d5bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesRequest.buildUrl(params: Swift.Array&lt;newsApiPecode.QueryParameter&gt;, isFilters: Swift.Bool, pagination: newsApiPecode.Pagination) -&gt; Swift.String"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Networker/Source/Requests/ArticlesRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "2214">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9982B113-4616-44C3-BCC9-A20AF177A933"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Networker/HTTPClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "execute(type:with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9982B113-4616-44C3-BCC9-A20AF177A933 - b785e9801386861d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for newsApiPecode.HTTPClient.execute&lt;&#x3c4;_0_0 where &#x3c4;_0_0: newsApiPecode.AnyModel&gt;(type: &#x3c4;_0_0.Type, with: newsApiPecode.RequestConvertable) async -&gt; Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Networker/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  uuid = "9982B113-4616-44C3-BCC9-A20AF177A933 - 56df3fea418231f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for newsApiPecode.HTTPClient.execute&lt;&#x3c4;_0_0 where &#x3c4;_0_0: newsApiPecode.AnyModel&gt;(type: &#x3c4;_0_0.Type, with: newsApiPecode.RequestConvertable) async -&gt; Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Networker/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "9982B113-4616-44C3-BCC9-A20AF177A933 - 71921901b66dc21f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for newsApiPecode.HTTPClient.execute&lt;&#x3c4;_0_0 where &#x3c4;_0_0: newsApiPecode.AnyModel&gt;(type: &#x3c4;_0_0.Type, with: newsApiPecode.RequestConvertable) async -&gt; Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Networker/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "82">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1558F88-74EB-4D3E-8F2C-12CEDECB42DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "fetchArticles(reset:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C1558F88-74EB-4D3E-8F2C-12CEDECB42DA - b33c5196b201c195"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "791">
+               </Location>
+               <Location
+                  uuid = "C1558F88-74EB-4D3E-8F2C-12CEDECB42DA - b33c5196b201c195"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "849">
+               </Location>
+               <Location
+                  uuid = "C1558F88-74EB-4D3E-8F2C-12CEDECB42DA - b33c5196b201c195"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "C1558F88-74EB-4D3E-8F2C-12CEDECB42DA - b33c5196b201c195"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "294">
+               </Location>
+               <Location
+                  uuid = "C1558F88-74EB-4D3E-8F2C-12CEDECB42DA - b33c5196b201c1f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "463">
+               </Location>
+               <Location
+                  uuid = "C1558F88-74EB-4D3E-8F2C-12CEDECB42DA - b33c5196b201c6df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "1197">
+               </Location>
+               <Location
+                  uuid = "C1558F88-74EB-4D3E-8F2C-12CEDECB42DA - b33c5196b201c6df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "463">
+               </Location>
+               <Location
+                  uuid = "C1558F88-74EB-4D3E-8F2C-12CEDECB42DA - b33c5196b201c429"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "338">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED87BD9C-1631-45A7-BBB0-EC12ABA96A95"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "200"
+            endingLineNumber = "200"
+            landmarkName = "fetchMoreArticlesIfNeeded(after:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99235D6A-5945-428C-8E6E-DCF1EE868D5B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "fetchMoreArticlesIfNeeded(after:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "99235D6A-5945-428C-8E6E-DCF1EE868D5B - 44c2943fa61f2b31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.fetchMoreArticlesIfNeeded(after: Swift.Int) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "99235D6A-5945-428C-8E6E-DCF1EE868D5B - 44c2943fa61f2b10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.fetchMoreArticlesIfNeeded(after: Swift.Int) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "99235D6A-5945-428C-8E6E-DCF1EE868D5B - 44c2943fa61f36e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.fetchMoreArticlesIfNeeded(after: Swift.Int) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "65">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "401C5312-B27C-496C-969B-6A6CBE5DC1DB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "tableView(_:willDisplay:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C95220A3-6ACF-4368-911B-315F09DEBBC9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C95220A3-6ACF-4368-911B-315F09DEBBC9 - 1a2b123687781c64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "235">
+               </Location>
+               <Location
+                  uuid = "C95220A3-6ACF-4368-911B-315F09DEBBC9 - 1a2b12368778639b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "202">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AEE490E7-C967-462C-AF2F-5DBD478DD731"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
+            landmarkName = "fetchArticles(reset:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AEE490E7-C967-462C-AF2F-5DBD478DD731 - b33c5196b201c6fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "1866">
+               </Location>
+               <Location
+                  uuid = "AEE490E7-C967-462C-AF2F-5DBD478DD731 - b33c5196b201c6bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "1451">
+               </Location>
+               <Location
+                  uuid = "AEE490E7-C967-462C-AF2F-5DBD478DD731 - b33c5196b201c6bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "1509">
+               </Location>
+               <Location
+                  uuid = "AEE490E7-C967-462C-AF2F-5DBD478DD731 - b33c5196b201c6fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "1530">
+               </Location>
+               <Location
+                  uuid = "AEE490E7-C967-462C-AF2F-5DBD478DD731 - b33c5196b201c6fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "1588">
+               </Location>
+               <Location
+                  uuid = "AEE490E7-C967-462C-AF2F-5DBD478DD731 - b33c5196b201c5d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "884">
+               </Location>
+               <Location
+                  uuid = "AEE490E7-C967-462C-AF2F-5DBD478DD731 - b33c5196b201c5d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "942">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D9FA8C9-EF05-4825-87A0-3DF742F1A3D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "fetchArticles(reset:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1D9FA8C9-EF05-4825-87A0-3DF742F1A3D1 - b33c5196b201c1d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "313">
+               </Location>
+               <Location
+                  uuid = "1D9FA8C9-EF05-4825-87A0-3DF742F1A3D1 - b33c5196b201c1d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "1D9FA8C9-EF05-4825-87A0-3DF742F1A3D1 - b33c5196b201c1d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "1345">
+               </Location>
+               <Location
+                  uuid = "1D9FA8C9-EF05-4825-87A0-3DF742F1A3D1 - b33c5196b201c1d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "330">
+               </Location>
+               <Location
+                  uuid = "1D9FA8C9-EF05-4825-87A0-3DF742F1A3D1 - b33c5196b201c1d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "361">
+               </Location>
+               <Location
+                  uuid = "1D9FA8C9-EF05-4825-87A0-3DF742F1A3D1 - b33c5196b201c1d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "1369">
+               </Location>
+               <Location
+                  uuid = "1D9FA8C9-EF05-4825-87A0-3DF742F1A3D1 - b33c5196b201c1f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "1D9FA8C9-EF05-4825-87A0-3DF742F1A3D1 - b33c5196b201c1f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "405">
+               </Location>
+               <Location
+                  uuid = "1D9FA8C9-EF05-4825-87A0-3DF742F1A3D1 - b33c5196b201c1f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "1448">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4D75D9F-498C-494E-8150-04B26E410EF5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "createLoaderFooter()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7ED36413-AAFF-4C75-9221-25ABBB5EDD5C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "setupOutput()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7ED36413-AAFF-4C75-9221-25ABBB5EDD5C - 93be20892a5d1826"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in newsApiPecode.ArticlesViewController.setupOutput() -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "7ED36413-AAFF-4C75-9221-25ABBB5EDD5C - 93be20892a5d1b5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in newsApiPecode.ArticlesViewController.setupOutput() -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51E36191-8FEE-4824-BC78-4FAD7D0C9218"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "fetchArticles(reset:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "154EAA29-AFC2-4CFF-BB55-772B0B92E2E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "setupOutput()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "154EAA29-AFC2-4CFF-BB55-772B0B92E2E8 - 15fdb4cfc00067d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in newsApiPecode.ArticlesViewController.setupOutput() -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "154EAA29-AFC2-4CFF-BB55-772B0B92E2E8 - 15fdb4cfc00067d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in newsApiPecode.ArticlesViewController.setupOutput() -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "154EAA29-AFC2-4CFF-BB55-772B0B92E2E8 - 15fdb4cfc0006715"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in newsApiPecode.ArticlesViewController.setupOutput() -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "306">
+               </Location>
+               <Location
+                  uuid = "154EAA29-AFC2-4CFF-BB55-772B0B92E2E8 - 15fdb4cfc0006715"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in newsApiPecode.ArticlesViewController.setupOutput() -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "65">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2867EFED-806E-4876-A58E-141A0A3DE4E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "fetchArticles(reset:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2867EFED-806E-4876-A58E-141A0A3DE4E5 - b33c5196b201c619"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "2044">
+               </Location>
+               <Location
+                  uuid = "2867EFED-806E-4876-A58E-141A0A3DE4E5 - 44c2943fa61f2aee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.fetchMoreArticlesIfNeeded(after: Swift.Int) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "2867EFED-806E-4876-A58E-141A0A3DE4E5 - b33c5196b201c706"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "2044">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "076111F8-1CE5-4524-ADA5-BA2ED2F522ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "addTargets()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "076111F8-1CE5-4524-ADA5-BA2ED2F522ED - 2e1d41a8122e4a88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewController.setupOutput() -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  uuid = "076111F8-1CE5-4524-ADA5-BA2ED2F522ED - 1e1e86c37f72e858"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Any) -&gt; () in newsApiPecode.ArticlesViewController.addTargets() -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "076111F8-1CE5-4524-ADA5-BA2ED2F522ED - 1e1e86c37f72e839"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Any) -&gt; () in newsApiPecode.ArticlesViewController.addTargets() -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "77">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED0866A3-84A5-45BB-AD47-A7DCD25873E1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "addTargets()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95289079-E696-4F85-BBC5-B99064EDFE5C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "needToBeSorted"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "95289079-E696-4F85-BBC5-B99064EDFE5C - 8e76848509c0922e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.needToBeSorted.didset : Swift.Bool"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  uuid = "95289079-E696-4F85-BBC5-B99064EDFE5C - 8e76848509c0922e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.needToBeSorted.didset : Swift.Bool"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "95289079-E696-4F85-BBC5-B99064EDFE5C - 8e76848509c09391"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.needToBeSorted.didset : Swift.Bool"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4BBF0A3-A9C8-40CE-863B-93C141E99355"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "favoriteButtonTappedInCell(cell:article:model:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F4BBF0A3-A9C8-40CE-863B-93C141E99355 - 694c2759d47d947e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewController.favoriteButtonTappedInCell(cell: newsApiPecode.ArticlesTableViewCell, article: newsApiPecode.Article, model: newsApiPecode.ArticlesViewModel) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "133">
+               </Location>
+               <Location
+                  uuid = "F4BBF0A3-A9C8-40CE-863B-93C141E99355 - 694c2759d47d947e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewController.favoriteButtonTappedInCell(cell: newsApiPecode.ArticlesTableViewCell, article: newsApiPecode.Article, model: newsApiPecode.ArticlesViewModel) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "327">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE3D05F8-4092-4681-A438-C4381B2EDAF0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "fetchArticles(reset:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DE3D05F8-4092-4681-A438-C4381B2EDAF0 - 9873194d4e510fb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  uuid = "DE3D05F8-4092-4681-A438-C4381B2EDAF0 - 9873194d4e510e2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "106">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48DA6769-3B5F-4F5A-853D-0FFF6AF3F3EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "fetchArticles(reset:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "48DA6769-3B5F-4F5A-853D-0FFF6AF3F3EF - b33c5196b201c58a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "354">
+               </Location>
+               <Location
+                  uuid = "48DA6769-3B5F-4F5A-853D-0FFF6AF3F3EF - b33c5196b201c46b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "354">
+               </Location>
+               <Location
+                  uuid = "48DA6769-3B5F-4F5A-853D-0FFF6AF3F3EF - b33c5196b201d917"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.ArticlesViewModel.fetchArticles(reset: Swift.Bool) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "169"
+                  endingLineNumber = "169"
+                  offsetFromSymbolStart = "354">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E32F708-D140-4DAE-A73D-7B49ED18365E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/FavoriteScreen/FavoriteScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D74B3FEC-9694-4160-8B52-8FC534B74DB4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/FavoriteScreen/FavoriteScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "configureFavoritesCell(_:article:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D74B3FEC-9694-4160-8B52-8FC534B74DB4 - 1c0048c5a7bc0f80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Any) -&gt; () in newsApiPecode.FavoritesViewController.configureFavoritesCell(_: newsApiPecode.ArticlesTableViewCell, article: newsApiPecode.FavoriteArticle) -&gt; __C.UITableViewCell"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/FavoriteScreen/FavoriteScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "161">
+               </Location>
+               <Location
+                  uuid = "D74B3FEC-9694-4160-8B52-8FC534B74DB4 - bd6fcfc0207a4792"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in newsApiPecode.FavoritesViewController.configureFavoritesCell(_: newsApiPecode.ArticlesTableViewCell, article: newsApiPecode.FavoriteArticle) -&gt; __C.UITableViewCell"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/FavoriteScreen/FavoriteScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "130">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF7B6824-3AFE-4531-AF3C-DD1F61B92F88"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/FavoriteScreen/FavoriteScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "setupInput()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BF7B6824-3AFE-4531-AF3C-DD1F61B92F88 - f5deb87d50cbc3ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (newsApiPecode.FavoriteArticle) -&gt; () in newsApiPecode.FavoritesViewModel.setupInput() -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/FavoriteScreen/FavoriteScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "BF7B6824-3AFE-4531-AF3C-DD1F61B92F88 - f5deb87d50cbc3ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (newsApiPecode.FavoriteArticle) -&gt; () in newsApiPecode.FavoritesViewModel.setupInput() -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/FavoriteScreen/FavoriteScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "273">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C5EA75B-9CA2-486A-8E09-8B6FBBA873D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/FavoriteScreen/FavoriteScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "fetchFavorites()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5EDA4667-33A1-4730-9066-8DA8B5574ADB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Services/FavoriteService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "articleDidTapped(favorite:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5EDA4667-33A1-4730-9066-8DA8B5574ADB - 62607612cf451be0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in newsApiPecode.FavouriteService.articleDidTapped(favorite: newsApiPecode.FavoriteArticle) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Services/FavoriteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  uuid = "5EDA4667-33A1-4730-9066-8DA8B5574ADB - 62607612cf451be0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in newsApiPecode.FavouriteService.articleDidTapped(favorite: newsApiPecode.FavoriteArticle) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Services/FavoriteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "764">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D00FC09-705D-4C0B-9821-DBBA99AD60B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Services/FavoriteService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "articleDidTapped(favorite:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2D00FC09-705D-4C0B-9821-DBBA99AD60B2 - 62607612cf45184f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in newsApiPecode.FavouriteService.articleDidTapped(favorite: newsApiPecode.FavoriteArticle) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Services/FavoriteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "851">
+               </Location>
+               <Location
+                  uuid = "2D00FC09-705D-4C0B-9821-DBBA99AD60B2 - 62607612cf45184f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in newsApiPecode.FavouriteService.articleDidTapped(favorite: newsApiPecode.FavoriteArticle) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Services/FavoriteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "879">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4EAA672-439B-4DAE-AB86-BE8EC8B8E093"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Services/FavoriteService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "articleDidTapped(favorite:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B4EAA672-439B-4DAE-AB86-BE8EC8B8E093 - 62607612cf45188d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in newsApiPecode.FavouriteService.articleDidTapped(favorite: newsApiPecode.FavoriteArticle) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Services/FavoriteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "879">
+               </Location>
+               <Location
+                  uuid = "B4EAA672-439B-4DAE-AB86-BE8EC8B8E093 - 62607612cf45188d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in newsApiPecode.FavouriteService.articleDidTapped(favorite: newsApiPecode.FavoriteArticle) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Services/FavoriteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "995">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44CB78A8-2808-4BBB-8CF4-8CF7004C904A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/FavoriteScreen/FavoriteScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "fetchFavorites()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5778859-A6A1-432A-8AF1-06D449B306F4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "articleTapped(article:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C5778859-A6A1-432A-8AF1-06D449B306F4 - f9dde6360eca63f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.articleTapped(article: newsApiPecode.Article) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  uuid = "C5778859-A6A1-432A-8AF1-06D449B306F4 - f9dde6360eca6163"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.articleTapped(article: newsApiPecode.Article) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "95">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C0D2AB0-0CFB-4707-879C-29A14D83786D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Services/FavoriteService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "getAllObjects(ofType:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3EE4DDB-8F4D-4DE2-9860-BBBF88175400"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6DA06A2-AEB0-4CD5-A08E-B3E0F9820064"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28312861-51A6-43AA-B030-0A2475260181"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "setupOutput()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "079C933E-276E-436C-891F-814326863661"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "configureArticlesCell(_:article:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "079C933E-276E-436C-891F-814326863661 - 10d825343bde7a26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in newsApiPecode.ArticlesViewController.configureArticlesCell(_: newsApiPecode.ArticlesTableViewCell, article: newsApiPecode.Article) -&gt; __C.UITableViewCell"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "130">
+               </Location>
+               <Location
+                  uuid = "079C933E-276E-436C-891F-814326863661 - 10d825343bde7ba2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in newsApiPecode.ArticlesViewController.configureArticlesCell(_: newsApiPecode.ArticlesTableViewCell, article: newsApiPecode.Article) -&gt; __C.UITableViewCell"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "130">
+               </Location>
+               <Location
+                  uuid = "079C933E-276E-436C-891F-814326863661 - 10d825343bde7850"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in newsApiPecode.ArticlesViewController.configureArticlesCell(_: newsApiPecode.ArticlesTableViewCell, article: newsApiPecode.Article) -&gt; __C.UITableViewCell"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "130">
+               </Location>
+               <Location
+                  uuid = "079C933E-276E-436C-891F-814326863661 - 10d825343bde7992"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in newsApiPecode.ArticlesViewController.configureArticlesCell(_: newsApiPecode.ArticlesTableViewCell, article: newsApiPecode.Article) -&gt; __C.UITableViewCell"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "130">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB99CD1F-AE93-43F7-A6F7-CAA6263561EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Naviagtion/MainFlowCoordinator/MainFlowCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "handle(event:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AB99CD1F-AE93-43F7-A6F7-CAA6263561EB - 17be14c764de3163"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.MainFlowCoordinator.handle(event: newsApiPecode.ArticlesCoordinatorEvent) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Naviagtion/MainFlowCoordinator/MainFlowCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "405">
+               </Location>
+               <Location
+                  uuid = "AB99CD1F-AE93-43F7-A6F7-CAA6263561EB - 17be14c764de3140"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in newsApiPecode.MainFlowCoordinator.handle(event: newsApiPecode.ArticlesCoordinatorEvent) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Naviagtion/MainFlowCoordinator/MainFlowCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "405">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA4241D9-EF4F-4ABD-8E22-6454210648F1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/WebView/WebViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "setupOutput()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DA4241D9-EF4F-4ABD-8E22-6454210648F1 - 845e4564ece1fa80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in newsApiPecode.WebViewController.setupOutput() -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/WebView/WebViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "279">
+               </Location>
+               <Location
+                  uuid = "DA4241D9-EF4F-4ABD-8E22-6454210648F1 - 845e4564ece1fa80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in newsApiPecode.WebViewController.setupOutput() -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/WebView/WebViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "313">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD23B4F4-F0F4-4B4F-B542-97FF3177C47C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/WebView/WebViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "setupOutput()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB46F6F6-A67B-4B5C-802B-3CADA4E7EA1A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/FiltersScreen/FiltersViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "pickerView(_:numberOfRowsInComponent:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18B5E3B3-81B6-44E4-BDA0-47BC8D16CC16"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/FiltersScreen/FiltersViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "pickerView(_:numberOfRowsInComponent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "18B5E3B3-81B6-44E4-BDA0-47BC8D16CC16 - 2ea3250bae673afa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.FiltersViewController.pickerView(_: __C.UIPickerView, numberOfRowsInComponent: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/FiltersScreen/FiltersViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "234">
+               </Location>
+               <Location
+                  uuid = "18B5E3B3-81B6-44E4-BDA0-47BC8D16CC16 - 2ea3250bae6726d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.FiltersViewController.pickerView(_: __C.UIPickerView, numberOfRowsInComponent: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/FiltersScreen/FiltersViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "194">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88D73E3A-833D-4F88-A366-281DBBE1BE60"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/FiltersScreen/FiltersViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "pickerView(_:titleForRow:forComponent:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F38E25B5-DDB2-4A5E-8833-D50212BFD0ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/FiltersScreen/FiltersViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "FiltersViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F38E25B5-DDB2-4A5E-8833-D50212BFD0ED - 2679bf7553c5c245"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIViewController) -&gt; () in closure #1 () -&gt; Swift.Optional&lt;newsApiPecode.FiltersViewVMInput&gt; in newsApiPecode.FiltersViewModel.input.getter : Swift.Optional&lt;newsApiPecode.FiltersViewVMInput&gt;"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/FiltersScreen/FiltersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "206">
+               </Location>
+               <Location
+                  uuid = "F38E25B5-DDB2-4A5E-8833-D50212BFD0ED - 2679bf7553c5c262"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIViewController) -&gt; () in closure #1 () -&gt; Swift.Optional&lt;newsApiPecode.FiltersViewVMInput&gt; in newsApiPecode.FiltersViewModel.input.getter : Swift.Optional&lt;newsApiPecode.FiltersViewVMInput&gt;"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/FiltersScreen/FiltersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "74">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E819546-2EBB-4F1B-A63A-C3A25A7E0AE4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/FiltersScreen/FiltersViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "setPickerState(state:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "817BDC20-A3F3-4082-B625-BA649A839209"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "handleDataReceived(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "817BDC20-A3F3-4082-B625-BA649A839209 - 96eaef414e661031"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.handleDataReceived(Foundation.Notification) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "1763">
+               </Location>
+               <Location
+                  uuid = "817BDC20-A3F3-4082-B625-BA649A839209 - 96eaef414e6611aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.handleDataReceived(Foundation.Notification) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "1763">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE344CC7-06A9-4D38-96F4-D47F9D4D2389"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "setupInput()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BE344CC7-06A9-4D38-96F4-D47F9D4D2389 - 2a71860311bd07d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (Swift.String) -&gt; () in newsApiPecode.ArticlesViewModel.setupInput() -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "BE344CC7-06A9-4D38-96F4-D47F9D4D2389 - 2a71860311bd07d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (Swift.String) -&gt; () in newsApiPecode.ArticlesViewModel.setupInput() -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  uuid = "BE344CC7-06A9-4D38-96F4-D47F9D4D2389 - 2a71860311bd187b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (Swift.String) -&gt; () in newsApiPecode.ArticlesViewModel.setupInput() -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "86">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D0765D6-255A-41D2-BB2F-EA3B155A2067"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "191"
+            endingLineNumber = "191"
+            landmarkName = "clearParams(searchValue:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2D0765D6-255A-41D2-BB2F-EA3B155A2067 - 1f6de11aee2e0300"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.clearParams(searchValue: Swift.String) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "2D0765D6-255A-41D2-BB2F-EA3B155A2067 - 1f6de11aee2e0300"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.clearParams(searchValue: Swift.String) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "197">
+               </Location>
+               <Location
+                  uuid = "2D0765D6-255A-41D2-BB2F-EA3B155A2067 - 1f6de11aee2e0195"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.clearParams(searchValue: Swift.String) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "197">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9668B053-65BF-4DA5-BADD-68E27DDF910D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
+            landmarkName = "clearParams(searchValue:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9668B053-65BF-4DA5-BADD-68E27DDF910D - 1f6de11aee2e029d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.clearParams(searchValue: Swift.String) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "501">
+               </Location>
+               <Location
+                  uuid = "9668B053-65BF-4DA5-BADD-68E27DDF910D - 1f6de11aee2e029d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.clearParams(searchValue: Swift.String) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "508">
+               </Location>
+               <Location
+                  uuid = "9668B053-65BF-4DA5-BADD-68E27DDF910D - 1f6de11aee2e0136"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.clearParams(searchValue: Swift.String) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "508">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55EB9090-60F6-4981-9935-240C12A5E2DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "handleDataReceived(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E1BE246-32F7-44A5-8538-E7E8DDD3EC42"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "handleDataReceived(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAB2218E-E823-4B5E-B464-92CA2047480C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "handleDataReceived(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FAB2218E-E823-4B5E-B464-92CA2047480C - 96eaef414e6610b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.handleDataReceived(Foundation.Notification) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "1179">
+               </Location>
+               <Location
+                  uuid = "FAB2218E-E823-4B5E-B464-92CA2047480C - 96eaef414e6610b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newsApiPecode.ArticlesViewModel.handleDataReceived(Foundation.Notification) -&gt; ()"
+                  moduleName = "newsApiPecode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/pecodeTest/newsApiPecode/newsApiPecode/Source/Screens/ArticlesScreen/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "1227">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
